@@ -1,6 +1,6 @@
 # Greater Mahale Ecosystem Research Centre data portal
 
-# Type (or copy) the following code into your R console to launch portal:
+Type (or copy) the following code into your R console to launch portal:
 
 ---
 
